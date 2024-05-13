@@ -8050,10 +8050,11 @@ ul {
 }
 
 .about-page__right-text-1 {
-  font-size: 24px;
+  font-size: 35px;
   color: var(--qutiiz-base);
   margin: 0;
   margin-bottom: 37px;
+  font-family:sans-serif;
 }
 
 .about-page__right-text-2 {
