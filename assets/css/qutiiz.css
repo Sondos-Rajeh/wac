@@ -27,7 +27,7 @@
   --qutiiz-white-rgb: 255, 255, 255;
   --qutiiz-black: #04000b;
   --qutiiz-black-rgb: 4, 0, 11;
-  --qutiiz-base: #6222cc;
+  --qutiiz-base: #223ccc;
   --qutiiz-base-rgb: 98, 34, 204;
   --qutiiz-bdr-radius: 8px;
 }
@@ -376,9 +376,10 @@ ul {
 .main-menu-wrapper__logo {
   position: relative;
   float: left;
-  padding-top: 37px;
+  padding-top: 0px;
   padding-bottom: 37px;
   /* margin-right: 205px; */
+  margin-top: 37px;
 }
 
 .main-menu-wrapper__main-menu {
@@ -390,7 +391,7 @@ ul {
   position: relative;
   display: flex;
   float: left;
-  padding: 34.5px 0;
+  padding: 0px 0;
   align-items: center;
 }
 
@@ -476,7 +477,7 @@ ul {
 }
 
 .stricky-header.main-menu {
-  padding: 0 55px;
+  padding: 0 35px;
   background-color: var(--qutiiz-black);
 }
 
@@ -1509,7 +1510,7 @@ ul {
 }
 
 .main-slider .swiper-slide-active .image-layer {
-  opacity: 0.45;
+  opacity: .45;
 }
 
 .main-slider .container {

@@ -878,7 +878,11 @@
 
   $(window).on("load", function () {
     if ($(".preloader").length) {
-      $(".preloader").fadeOut();
+  // this is where the loading happens
+      setTimeout(() => {
+        $(".preloader").fadeOut();
+      }, "10000");
+    
     }
     thmSwiperInit();
     thmTinyInit();
