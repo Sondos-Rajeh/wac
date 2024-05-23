@@ -881,7 +881,7 @@
   // this is where the loading happens
       setTimeout(() => {
         $(".preloader").fadeOut();
-      }, "10000");
+      }, "1000");
     
     }
     thmSwiperInit();

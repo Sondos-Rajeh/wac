@@ -1970,7 +1970,8 @@
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
     .main-menu-wrapper__logo {
-        margin-left: 45px;
+        margin-left: 0px;
+        margin-right: 20px;
     }
 
 
