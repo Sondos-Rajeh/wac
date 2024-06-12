@@ -230,6 +230,8 @@
                         <li data-filter=".photo"><span class="filter-text">النفطية</span></li>
                         <li data-filter=".web"><span class="filter-text">اللوجستية </span></li>
                         <li data-filter=".app"><span class="filter-text last-pd-none">التخليص الجمركي</span></li>
+                        <li data-filter=".bra"><span class="filter-text">المقاولات والإنشاءات</span></li>
+
                     </ul>
                 </div>
             </div>
