@@ -93,7 +93,7 @@
                                 <li class="dropdown">
                                     <a href="#">المشاريع</a>
                                     <ul>
-                                        <li><a href="emergency-unit-projects">مشاريع وحدة الطوارئ</a></li>
+                                        <li><a href="emergency-unit-projects"> مشاريع وحدة الطوارئ </a></li>
                                         <li><a href="clearance-project">مشروع التخليص</a></li>
                                     </ul>
                                 </li>

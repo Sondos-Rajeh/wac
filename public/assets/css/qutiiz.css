@@ -4235,7 +4235,6 @@ ul {
 .blog-one__img {
   position: relative;
   display: block;
-  background-color: var(--qutiiz-black);
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   overflow: hidden;

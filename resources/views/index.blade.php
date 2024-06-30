@@ -333,66 +333,29 @@
                 <h2 class="section-title__title">المشاريع</h2>
             </div>
             <div class="row">
-                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="100ms">
                     <!--Blog One Start-->
                     <div class="blog-one__single">
                         <div class="blog-one__img">
-                            <img src="assets/images/blog/blog-one-img-1.jpg" alt="">
-                            <a href="blog-details">
-                                <span class="blog-one__plus"></span>
-                            </a>
-                            <div class="blog-one__date">
-                                <p>25 <br> أغسطس</p>
-                            </div>
+                            <img src="assets/images/wac/6-02.jpg" alt="">
                         </div>
-                        <div class="blog-one__content">
-                            <ul class="list-unstyled blog-one__meta">
-                                <li><a href="blog-details"><i class="far fa-folder-open"></i> الأعمال</a></li>
-                                <li><a href="blog-details"><i class="far fa-comments"></i> 02 تعليقات</a>
-                                </li>
-                            </ul>
+                        <div class="blog-one__content" style="text-align: center">
                             <h3 class="blog-one__title">
-                                <a href="blog-details">احصل على بعض الحلول لتوظيف أفضل المرشحين</a>
+                                <a href="blog-details"> مشاريع وحدة الطوارئ</a>
                             </h3>
-                            <div class="blog-one__person">
-                                <div class="blog-one__person-img">
-                                    <img src="assets/images/blog/blog-one-person-img-1.jpg" alt="">
-                                </div>
-                                <div class="blog-one__person-content">
-                                    <p>بواسطة مايك هاردسون</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
                     <!--Blog One Start-->
                     <div class="blog-one__single">
                         <div class="blog-one__img">
-                            <img src="assets/images/blog/blog-one-img-2.jpg" alt="">
-                            <a href="blog-details">
-                                <span class="blog-one__plus"></span>
-                            </a>
-                            <div class="blog-one__date">
-                                <p>25 <br> أغسطس</p>
-                            </div>
+                            <img src="assets/images/wac/6-01.jpg" alt="">
                         </div>
-                        <div class="blog-one__content">
-                            <ul class="list-unstyled blog-one__meta">
-                                <li><a href="blog-details"><i class="far fa-folder-open"></i> الأعمال</a></li>
-                                <li><a href="blog-details"><i class="far fa-comments"></i> 02 تعليقات</a>
-                                </li>
-                            </ul>
+                        <div class="blog-one__content" style="text-align: center">
                             <h3 class="blog-one__title">
-                                <a href="blog-details">جلب استراتيجيات البقاء على قيد الحياة للفوز</a>
+                                <a href="blog-details"> مشروع التخليص </a>
                             </h3>
-                            <div class="blog-one__person">
-                                <div class="blog-one__person-img">
-                                    <img src="assets/images/blog/blog-one-person-img-1.jpg" alt="">
-                                </div>
-                                <div class="blog-one__person-content">
-                                    <p>بواسطة مايك هاردسون</p>
-                                </div>
                             </div>
                         </div>
                     </div>
