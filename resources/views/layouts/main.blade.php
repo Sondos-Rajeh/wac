@@ -86,18 +86,9 @@
                                     <a href="goals-and-values">الاهداف والقيم</a>
 
                                 </li>
-                                <li class="dropdown">
+                                <li>
                                     <a href="our-services">خدماتنا</a>
-                                    <ul>
-                                        <li><a href="transport-services">خدمات النقل</a></li>
-                                        <li><a href="oil-services">الخدمات النفطية</a></li>
-                                        <li><a href="customs-clearance">التخليص الجمركي</a></li>
-                                        <li><a href="contracting-and-construction">المقاولات والإنشاءات</a></li>
-                                        <li><a href="logistics-services">الخدمات اللوجستية</a></li>
-                                        <li><a href="other-services">خدمات أخرى</a></li>
-                                    </ul>
                                 </li>
-
 
                                 <li class="dropdown">
                                     <a href="#">المشاريع</a>
