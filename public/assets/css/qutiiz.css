@@ -4235,6 +4235,10 @@ ul {
 .blog-one__img {
   position: relative;
   display: block;
+<<<<<<< HEAD
+=======
+  background-color: var(--qutiiz-black);
+>>>>>>> 4371fc5 (1)
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   overflow: hidden;

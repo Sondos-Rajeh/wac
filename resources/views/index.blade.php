@@ -224,6 +224,7 @@
             </div>
             <div class="row">
                 <div class="col-xl-12">
+<<<<<<< HEAD
                     {{-- <ul class="project-filter style1 post-filter has-dynamic-filters-counter list-unstyled">
                         <li data-filter=".filter-item" class="active"><span class="filter-text">الخدمات </span></li> --}}
                         {{-- <li data-filter=".bra"><span class="filter-text">النقل</span></li>
@@ -231,6 +232,15 @@
                         <li data-filter=".web"><span class="filter-text">اللوجستية </span></li>
                         <li data-filter=".app"><span class="filter-text last-pd-none"> التخليص الجمركي </span></li>
                         <li data-filter=".bra"><span class="filter-text"> المقاولات والإنشاءات </span></li> --}}
+=======
+                    <ul class="project-filter style1 post-filter has-dynamic-filters-counter list-unstyled">
+                        <li data-filter=".filter-item" class="active"><span class="filter-text">الكل</span></li>
+                        <li data-filter=".bra"><span class="filter-text">النقل</span></li>
+                        <li data-filter=".photo"><span class="filter-text">النفطية</span></li>
+                        <li data-filter=".web"><span class="filter-text">اللوجستية </span></li>
+                        <li data-filter=".app"><span class="filter-text last-pd-none">التخليص الجمركي</span></li>
+                        <li data-filter=".bra"><span class="filter-text">المقاولات والإنشاءات</span></li>
+>>>>>>> 4371fc5 (1)
 
                     </ul>
                 </div>
@@ -240,9 +250,16 @@
                     <!--Portfolio One Single-->
                     <div class="project-one__single">
                         <div class="project-one__img">
+<<<<<<< HEAD
                             <img src="assets/images/wac/4-04.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
                                 <h3 class="project-one__title"><a href="project-details"> المقاولات والإنشاءات</a>
+=======
+                            <img src="assets/images/resources/project-one-img-1.jpg" alt="">
+                            <div class="project-one__hover project-one__hover-pl-40">
+                                <p class="project-one__tagline">تصميم جرافيك</p>
+                                <h3 class="project-one__title"><a href="project-details">تجربة فيملور</a>
+>>>>>>> 4371fc5 (1)
                                 </h3>
                             </div>
                         </div>
@@ -252,9 +269,16 @@
                     <!--Portfolio One Single-->
                     <div class="project-one__single">
                         <div class="project-one__img">
+<<<<<<< HEAD
                             <img src="assets/images/wac/4-03.jpg" alt="" height="570px" width="170px">
                             <div class="project-one__hover">
                                 <h3 class="project-one__title"><a href="project-details">خدماتنا</a>
+=======
+                            <img src="assets/images/resources/project-one-img-2.jpg" alt="">
+                            <div class="project-one__hover">
+                                <p class="project-one__tagline">تصميم جرافيك</p>
+                                <h3 class="project-one__title"><a href="project-details">تجربة فيملور</a>
+>>>>>>> 4371fc5 (1)
                                 </h3>
                             </div>
                         </div>
@@ -264,9 +288,16 @@
                     <!--Portfolio One Single-->
                     <div class="project-one__single">
                         <div class="project-one__img">
+<<<<<<< HEAD
                             <img src="assets/images/wac/1-05.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
                                 <h3 class="project-one__title"><a href="project-details">النقل</a>
+=======
+                            <img src="assets/images/resources/project-one-img-3.jpg" alt="">
+                            <div class="project-one__hover project-one__hover-pl-40">
+                                <p class="project-one__tagline">تصميم جرافيك</p>
+                                <h3 class="project-one__title"><a href="project-details">تجربة فيملور</a>
+>>>>>>> 4371fc5 (1)
                                 </h3>
                             </div>
                         </div>
@@ -276,9 +307,16 @@
                     <!--Portfolio One Single-->
                     <div class="project-one__single">
                         <div class="project-one__img">
+<<<<<<< HEAD
                             <img src="assets/images/wac/2-02.jpg" alt="" height="570px">
                             <div class="project-one__hover project-one__hover-pl-40">
                                 <h3 class="project-one__title"><a href="project-details">الخدمات النفطية</a>
+=======
+                            <img src="assets/images/resources/project-one-img-4.jpg" alt="">
+                            <div class="project-one__hover project-one__hover-pl-40">
+                                <p class="project-one__tagline">تصميم جرافيك</p>
+                                <h3 class="project-one__title"><a href="project-details">تجربة فيملور</a>
+>>>>>>> 4371fc5 (1)
                                 </h3>
                             </div>
                         </div>
@@ -288,9 +326,16 @@
                     <!--Portfolio One Single-->
                     <div class="project-one__single">
                         <div class="project-one__img">
+<<<<<<< HEAD
                             <img src="assets/images/wac/3-02.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
                                 <h3 class="project-one__title"><a href="project-details">التخليص الجمركي</a>
+=======
+                            <img src="assets/images/resources/project-one-img-5.jpg" alt="">
+                            <div class="project-one__hover project-one__hover-pl-40">
+                                <p class="project-one__tagline">تصميم جرافيك</p>
+                                <h3 class="project-one__title"><a href="project-details">تجربة فيملور</a>
+>>>>>>> 4371fc5 (1)
                                 </h3>
                             </div>
                         </div>
@@ -300,9 +345,16 @@
                     <!--Portfolio One Single-->
                     <div class="project-one__single">
                         <div class="project-one__img">
+<<<<<<< HEAD
                             <img src="assets/images/wac/5-01.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
                                 <h3 class="project-one__title"><a href="project-details">الخدمات اللوجستية</a>
+=======
+                            <img src="assets/images/resources/project-one-img-6.jpg" alt="">
+                            <div class="project-one__hover project-one__hover-pl-40">
+                                <p class="project-one__tagline">تصميم جرافيك</p>
+                                <h3 class="project-one__title"><a href="project-details">تجربة فيملور</a>
+>>>>>>> 4371fc5 (1)
                                 </h3>
                             </div>
                         </div>
@@ -312,9 +364,16 @@
                     <!--Portfolio One Single-->
                     <div class="project-one__single">
                         <div class="project-one__img">
+<<<<<<< HEAD
                             <img src="assets/images/wac/3-03.jpg" alt="" height="270px">
                             <div class="project-one__hover">
                                 <h3 class="project-one__title"><a href="project-details">خدمات اخرى</a>
+=======
+                            <img src="assets/images/resources/project-one-img-7.jpg" alt="">
+                            <div class="project-one__hover">
+                                <p class="project-one__tagline">تصميم جرافيك</p>
+                                <h3 class="project-one__title"><a href="project-details">تجربة فيملور</a>
+>>>>>>> 4371fc5 (1)
                                 </h3>
                             </div>
                         </div>
@@ -333,6 +392,7 @@
                 <h2 class="section-title__title">المشاريع</h2>
             </div>
             <div class="row">
+<<<<<<< HEAD
                 <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="100ms">
                     <!--Blog One Start-->
                     <div class="blog-one__single">
@@ -356,10 +416,104 @@
                             <h3 class="blog-one__title">
                                 <a href="blog-details"> مشروع التخليص </a>
                             </h3>
+=======
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                    <!--Blog One Start-->
+                    <div class="blog-one__single">
+                        <div class="blog-one__img">
+                            <img src="assets/images/blog/blog-one-img-1.jpg" alt="">
+                            <a href="blog-details">
+                                <span class="blog-one__plus"></span>
+                            </a>
+                            <div class="blog-one__date">
+                                <p>25 <br> أغسطس</p>
+                            </div>
+                        </div>
+                        <div class="blog-one__content">
+                            <ul class="list-unstyled blog-one__meta">
+                                <li><a href="blog-details"><i class="far fa-folder-open"></i> الأعمال</a></li>
+                                <li><a href="blog-details"><i class="far fa-comments"></i> 02 تعليقات</a>
+                                </li>
+                            </ul>
+                            <h3 class="blog-one__title">
+                                <a href="blog-details">احصل على بعض الحلول لتوظيف أفضل المرشحين</a>
+                            </h3>
+                            <div class="blog-one__person">
+                                <div class="blog-one__person-img">
+                                    <img src="assets/images/blog/blog-one-person-img-1.jpg" alt="">
+                                </div>
+                                <div class="blog-one__person-content">
+                                    <p>بواسطة مايك هاردسون</p>
+                                </div>
+>>>>>>> 4371fc5 (1)
                             </div>
                         </div>
                     </div>
                 </div>
+<<<<<<< HEAD
+=======
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <!--Blog One Start-->
+                    <div class="blog-one__single">
+                        <div class="blog-one__img">
+                            <img src="assets/images/blog/blog-one-img-2.jpg" alt="">
+                            <a href="blog-details">
+                                <span class="blog-one__plus"></span>
+                            </a>
+                            <div class="blog-one__date">
+                                <p>25 <br> أغسطس</p>
+                            </div>
+                        </div>
+                        <div class="blog-one__content">
+                            <ul class="list-unstyled blog-one__meta">
+                                <li><a href="blog-details"><i class="far fa-folder-open"></i> الأعمال</a></li>
+                                <li><a href="blog-details"><i class="far fa-comments"></i> 02 تعليقات</a>
+                                </li>
+                            </ul>
+                            <h3 class="blog-one__title">
+                                <a href="blog-details">جلب استراتيجيات البقاء على قيد الحياة للفوز</a>
+                            </h3>
+                            <div class="blog-one__person">
+                                <div class="blog-one__person-img">
+                                    <img src="assets/images/blog/blog-one-person-img-1.jpg" alt="">
+                                </div>
+                                <div class="blog-one__person-content">
+                                    <p>بواسطة مايك هاردسون</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                    <!--Blog One Start-->
+                    <div class="blog-one__single">
+                        <div class="blog-one__img">
+                            <img src="assets/images/blog/blog-one-img-3.jpg" alt="">
+                            <a href="blog-details">
+                                <span class="blog-one__plus"></span>
+                            </a>
+                            <div class="blog-one__date">
+                                <p>25 <br> أغسطس</p>
+                            </div>
+                        </div>
+                        <div class="blog-one__content">
+                            <ul class="list-unstyled blog-one__meta">
+                                <li><a href="blog-details"><i class="far fa-folder-open"></i> الأعمال</a></li>
+                                <li><a href="blog-details"><i the="far fa-comments"></i> 02 تعليقات</a>
+                                </li>
+                            </ul>
+                            <h3 class="blog-one__title">
+                                <a href="blog-details">استفد من الفاكهة المعلقة منخفضة لتحديد</a>
+                            </h3>
+                            <div class="blog-one__person">
+                                <div class="blog-one__person-img">
+                                    <img src="assets/images/blog/blog-one-person-img-1.jpg" alt="">
+                                </div>
+                                <div class="blog-one__person-content">
+                                    <p>بواسطة مايك هاردسون</p>
+                                </div>
+                            </div>
+>>>>>>> 4371fc5 (1)
                         </div>
                     </div>
                 </div>

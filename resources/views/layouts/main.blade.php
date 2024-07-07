@@ -93,7 +93,8 @@
                                 <li class="dropdown">
                                     <a href="#">المشاريع</a>
                                     <ul>
-                                        <li><a href="emergency-unit-projects"> مشاريع وحدة الطوارئ </a></li>
+                                        <li><a href="emergency-unit-projects">مشاريع وحدة الطوارئ</a></li>
+                                       
                                         <li><a href="clearance-project">مشروع التخليص</a></li>
                                     </ul>
                                 </li>
@@ -190,7 +191,7 @@
                                             <i class="fas fa-envelope"></i>
                                         </div>
                                         <div class="text">
-                                            <a href="mailto:WEHDA.ARABIA.CO@WAC-YE.COM"> WEHDA.ARABIA.CO@WAC-YE.COM</a>
+                                            <a href="mailto:logisticsoperations@alwehda-alarabia.com">logisticsoperations@alwehda-alarabia.com</a>
                                         </div>
                                     </li>
                                     <li>
@@ -198,8 +199,9 @@
                                             <i class="fas fa-map-marker-alt"></i>
                                         </div>
                                         <div class="text">
-                                            <p>الجمهورية اليمنية ـ صنعاء ـ شارع الزبيري ـ أمام مبنى شركة سبأفون للهاتف
-                                                النقال </p>
+                                            <p>
+                                            شارع نواكشوط - بالقرب من مستشفى المودة - مبنى عالم الصيدلة - الدور الرابع
+                                            </p>
                                         </div>
                                     </li>
                                 </ul>

@@ -72,7 +72,8 @@
                             <span class="icon-address"></span>
                         </div>
                         <h3 class="contact-info__title">العنوان</h3>
-                        <p class="contact-info__text"> الجمهورية اليمنية ـ صنعاء ـ شارع الزبيري ـ أمام مبنى شركة سبأفون للهاتف النقال
+                        <p class="contact-info__text">
+                            شارع نواكشوط - بالقرب من مستشفى المودة - مبنى عالم الصيدلة - الدور الرابع
                         </p>
                     </div>
                 </div>
@@ -84,12 +85,12 @@
                         </div>
                         <h3 class="contact-info__title">اﻻيميل</h3>
                         <h4>
-                            <a href="mailto:WEHDA.ARABIA.CO@WAC-YE.COM" class="contact-info__mail">WEHDA.ARABIA.CO@WAC-YE.COM
+                            <!-- <a href="mailto:WEHDA.ARABIA.CO@WAC-YE.COM" class="contact-info__mail">WEHDA.ARABIA.CO@WAC-YE.COM
                             </a>
                             </br>
                             <a href="mailto:NASHWAN-SULLEH@WAC-YE.COM" class="contact-info__mail">NASHWAN-SULLEH@WAC-YE.COM </a>
-                        </br>
-                             <a href="mailto:ALWEHDAALARABIC2000@GMAIL.COM" class="contact-info__mail">ALWEHDAALARABIC2000@GMAIL.COM </a>
+                        </br> -->
+                             <a href="mailto:logisticsoperations@alwehda -alarabia.com" class="contact-info__mail">logisticsoperations@alwehda-alarabia.com</a>
                         </h4>
                     </div>
                 </div>
