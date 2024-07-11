@@ -39,7 +39,7 @@ class PagesController extends Controller
 
     public function transportServices()
     {
-        return view('transport-services');
+        return view('transportation-supply');
     }
 
     public function oilServices()
@@ -49,7 +49,7 @@ class PagesController extends Controller
 
     public function customsClearance()
     {
-        return view('customs-clearance');
+        return view('shipping-customs-clearance');
     }
 
     public function contractingAndConstruction()
@@ -57,14 +57,14 @@ class PagesController extends Controller
         return view('contracting-and-construction');
     }
 
-    public function logisticsServices()
+    public function storageDistribution()
     {
-        return view('logistics-services');
+        return view('storage-distribution');
     }
 
-    public function otherServices()
+    public function waterEnv()
     {
-        return view('other-services');
+        return view('water-env');
     }
 
     public function projects()

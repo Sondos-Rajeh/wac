@@ -54,14 +54,20 @@
                         </br>
 
 
-                        <a href="tel:714777755" class="contact-info__phone">
-                        الموبايل: 714777755
+                        <a href="tel:776010890" class="contact-info__phone">
+                        الموبايل: 776010890
                         </a>
                     </br>
 
-                        <a href="tel:777773255" class="contact-info__phone">
-                            الموبايل: 777773255
+                        <a href="tel:777772355" class="contact-info__phone">
+                            الموبايل: 777772355
                         </a>
+                    </br>
+
+                    <a href="tel:776555598" class="contact-info__phone">
+                        الموبايل: 776555598
+                    </a>
+
 
                     </div>
                 </div>
@@ -72,8 +78,9 @@
                             <span class="icon-address"></span>
                         </div>
                         <h3 class="contact-info__title">العنوان</h3>
-                        <p class="contact-info__text"> الجمهورية اليمنية ـ صنعاء ـ شارع الزبيري ـ أمام مبنى شركة سبأفون للهاتف النقال
-                        </p>
+                        <p class="contact-info__text"> 
+                            شارع نواكشوط - بالقرب من مستشفى المودة - مبنى عالم الصيدلة - الدور الرابع                     
+                           </p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
@@ -84,10 +91,8 @@
                         </div>
                         <h3 class="contact-info__title">اﻻيميل</h3>
                         <h4>
-                            <a href="mailto:WEHDA.ARABIA.CO@WAC-YE.COM" class="contact-info__mail">WEHDA.ARABIA.CO@WAC-YE.COM
+                            <a href="mailto:WEHDA.ARABIA.CO@WAC-YE.COM" class="contact-info__mail">logisticsoperations@alwehda -alarabia.com
                             </a>
-                            </br>
-                            <a href="mailto:NASHWAN-SULLEH@WAC-YE.COM" class="contact-info__mail">NASHWAN-SULLEH@WAC-YE.COM </a>
                         </br>
                              <a href="mailto:ALWEHDAALARABIC2000@GMAIL.COM" class="contact-info__mail">ALWEHDAALARABIC2000@GMAIL.COM </a>
                         </h4>

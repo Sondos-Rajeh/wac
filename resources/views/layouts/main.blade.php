@@ -86,8 +86,23 @@
                                     <a href="goals-and-values">الاهداف والقيم</a>
 
                                 </li>
-                                <li>
+                                <li class="dropdown">
                                     <a href="our-services">خدماتنا</a>
+                                    <ul>
+                                        <li><a href="transportation-supply">النقل والتوريد</a></li>
+
+                                        <li><a href="shipping-customs-clearance">الشحن والتخليص الجمركي</a></li>
+
+                                        <li><a href="oil-services">الخدمات النفطية</a></li>
+
+                                        <li><a href="storage-distribution">التخزين والتوزيع</a></li>
+
+                                        <li><a href="contracting-and-construction">المقاولات والإنشاءات</a></li>
+
+                                        <li><a href="water-env"> مشاريع المياه والاصحاح البيئي</a></li>
+
+
+                                    </ul>
                                 </li>
 
                                 <li class="dropdown">
@@ -190,7 +205,7 @@
                                             <i class="fas fa-envelope"></i>
                                         </div>
                                         <div class="text">
-                                            <a href="mailto:WEHDA.ARABIA.CO@WAC-YE.COM"> WEHDA.ARABIA.CO@WAC-YE.COM</a>
+                                            <a href="mailto:logisticsoperations@alwehda -alarabia.com"> logisticsoperations@alwehda -alarabia.com</a>
                                         </div>
                                     </li>
                                     <li>
@@ -198,8 +213,8 @@
                                             <i class="fas fa-map-marker-alt"></i>
                                         </div>
                                         <div class="text">
-                                            <p>الجمهورية اليمنية ـ صنعاء ـ شارع الزبيري ـ أمام مبنى شركة سبأفون للهاتف
-                                                النقال </p>
+                                            <p>
+                                                شارع نواكشوط - بالقرب من مستشفى المودة - مبنى عالم الصيدلة - الدور الرابع                                            </p>
                                         </div>
                                     </li>
                                 </ul>

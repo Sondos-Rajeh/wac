@@ -266,7 +266,8 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/1-05.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details">النقل</a>
+                                <h3 class="project-one__title"><a href="project-details">التخزين والتوزيع
+                                </a>
                                 </h3>
                             </div>
                         </div>
@@ -290,7 +291,8 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/3-02.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details">التخليص الجمركي</a>
+                                <h3 class="project-one__title"><a href="project-details"> الشحن والتخليص الجمركي 
+                                </a>
                                 </h3>
                             </div>
                         </div>
@@ -302,7 +304,9 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/5-01.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details">الخدمات اللوجستية</a>
+                                <h3 class="project-one__title"><a href="project-details"> مشاريع المياه والاصحاح البيئي 
+ 
+                                </a>
                                 </h3>
                             </div>
                         </div>
@@ -314,7 +318,8 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/3-03.jpg" alt="" height="270px">
                             <div class="project-one__hover">
-                                <h3 class="project-one__title"><a href="project-details">خدمات اخرى</a>
+                                <h3 class="project-one__title"><a href="project-details">النقل والتوريد
+                                </a>
                                 </h3>
                             </div>
                         </div>

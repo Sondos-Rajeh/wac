@@ -19,7 +19,9 @@
 
         <div class="container">
             <div class="page-header__inner">
-                <h2> الرؤية </h2>
+                <h2>
+                    النقل والتوريد
+                </h2>
             </div>
         </div>
     </section>
@@ -30,15 +32,15 @@
         <div class="container">
 
             <div class="row">
-                <span class="about-page__right-text-1"> رؤيتنا </span>
+                <span class="about-page__right-text-1">  
+                    النقل والتوريد
+                </span>
             </div>
 
             <div class="row">
                 <p>
 
-                    أن تكون الوحدة العربية الشركة الأولى والرائدة على المستوى المحلى والاقليمي، من خلال
-                    استخدام أفضل الطرق والوسائل لدعم تقديم الخدمات وفق معايير الجودة العالمية.
-                                   
+                    نقل وتوريد المواد الغذائية وغير الغذائية والأدوية ونقل المياه بالشاحنات.
                 </p>
             </div>
 
