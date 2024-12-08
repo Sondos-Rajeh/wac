@@ -242,7 +242,7 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/4-04.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details"> المقاولات والإنشاءات</a>
+                                <h3 class="project-one__title"><a href="contracting-and-construction"> المقاولات والإنشاءات</a>
                                 </h3>
                             </div>
                         </div>
@@ -254,7 +254,7 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/4-03.jpg" alt="" height="570px" width="170px">
                             <div class="project-one__hover">
-                                <h3 class="project-one__title"><a href="project-details">خدماتنا</a>
+                                <h3 class="project-one__title"><a href="our-services">خدماتنا</a>
                                 </h3>
                             </div>
                         </div>
@@ -266,7 +266,7 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/1-05.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details">التخزين والتوزيع
+                                <h3 class="project-one__title"><a href="storage-distribution">التخزين والتوزيع
                                 </a>
                                 </h3>
                             </div>
@@ -279,7 +279,7 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/2-02.jpg" alt="" height="570px">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details">الخدمات النفطية</a>
+                                <h3 class="project-one__title"><a href="oil-services">الخدمات النفطية</a>
                                 </h3>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/3-02.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details"> الشحن والتخليص الجمركي 
+                                <h3 class="project-one__title"><a href="shipping-customs-clearance"> الشحن والتخليص الجمركي 
                                 </a>
                                 </h3>
                             </div>
@@ -304,7 +304,7 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/5-01.jpg" alt="">
                             <div class="project-one__hover project-one__hover-pl-40">
-                                <h3 class="project-one__title"><a href="project-details"> مشاريع المياه والاصحاح البيئي 
+                                <h3 class="project-one__title"><a href="water-env"> مشاريع المياه والاصحاح البيئي 
  
                                 </a>
                                 </h3>
@@ -318,7 +318,7 @@
                         <div class="project-one__img">
                             <img src="assets/images/wac/3-03.jpg" alt="" height="270px">
                             <div class="project-one__hover">
-                                <h3 class="project-one__title"><a href="project-details">النقل والتوريد
+                                <h3 class="project-one__title"><a href="storage-distribution">النقل والتوريد
                                 </a>
                                 </h3>
                             </div>
