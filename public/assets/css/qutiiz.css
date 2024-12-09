@@ -32,6 +32,17 @@
   --qutiiz-bdr-radius: 8px;
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+      font-size: 14px !important;
+      line-height: 23px !important; /* Smaller font size for phones */
+  }
+  * {
+    font-size: 14px !important;
+    line-height: 23px !important; /* Smaller font size for phones */
+}
+}
+
 .row {
   --bs-gutter-x: 30px;
 }
@@ -11849,3 +11860,4 @@ body.boxed-wrapper {
 .list-unstyled{
 padding-right: 0px;
 }
+
