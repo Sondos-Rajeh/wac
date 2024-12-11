@@ -3,9 +3,8 @@
 @section('content')
     <!--Page Header Start-->
     <section class="page-header">
-        <div class="page-header-bg">
-            <img src="assets/images/banner1-01.png" height="528px" width="1300px">
-             </div>
+            <div class="page-header-bg" style="background-image: url(assets/images/banner1-01.png)">
+            </div>
         <div class="page-header-border"></div>
         <div class="page-header-border page-header-border-two"></div>
         <div class="page-header-border page-header-border-three"></div>
