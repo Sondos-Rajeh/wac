@@ -18,9 +18,9 @@
 # Common
 --------------------------------------------------------------*/
 :root {
-  --qutiiz-font: "Almarai", sans-serif;
-  --qutiiz-font-two: "Almarai", sans-serif;
-  --qutiiz-reey-font: "Almarai";
+  --qutiiz-font: "DM Sans", sans-serif;
+  --qutiiz-font-two: "Barlow Condensed", sans-serif;
+  --qutiiz-reey-font: "reeyregular";
   --qutiiz-gray: #726d7b;
   --qutiiz-gray-rgb: 114, 109, 123;
   --qutiiz-white: #ffffff;
@@ -6379,10 +6379,6 @@ ul {
   color: var(--qutiiz-base);
 }
 
-.blog-sidebar__meta li+li {
-  margin-left: 10px;
-}
-
 .blog-sidebar__title {
   font-size: 34px;
   font-weight: 600;
@@ -11859,3 +11855,67 @@ body.boxed-wrapper {
 padding-right: 0px;
 }
 
+
+
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 400 to 700 */
+
+.noto-naskh-arabic{
+  font-family: "Noto Naskh Arabic", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+.tajawal-extralight {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.tajawal-light {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.tajawal-regular {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tajawal-medium {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.tajawal-bold {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.tajawal-extrabold {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.tajawal-black {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+
+.el-messiri {
+  font-family: "El Messiri", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
