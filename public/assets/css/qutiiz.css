@@ -18,9 +18,9 @@
 # Common
 --------------------------------------------------------------*/
 :root {
-  --qutiiz-font: "DM Sans", sans-serif;
-  --qutiiz-font-two: "Barlow Condensed", sans-serif;
-  --qutiiz-reey-font: "reeyregular";
+  --qutiiz-font: "Almarai", sans-serif;
+  --qutiiz-font-two: "Almarai", sans-serif;
+  --qutiiz-reey-font: "Almarai";
   --qutiiz-gray: #726d7b;
   --qutiiz-gray-rgb: 114, 109, 123;
   --qutiiz-white: #ffffff;
